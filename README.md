@@ -32,7 +32,8 @@ docker --version
    
 docker build -t netflix .
 docker images
-docker run -d -p 8081:80 <IMAGE_ID>
+clear
+<IMAGE_ID>
 6. Configure Security Groups
 Open the following ports in the EC2 security group:
 Medium
